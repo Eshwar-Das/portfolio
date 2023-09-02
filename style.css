@@ -9,11 +9,13 @@
 .container{
     width: 100vw;
     height: 100vh;
-    background-image: url(images/background.png);
+    background: rgba(0,0,0,0.7);
+    background-image: url(https://img.pikbest.com/backgrounds/20200427/aesthetic-and-simple-universe-starry-sky-planet-composite-background_2754906.jpg!bwr800);
     background-position: center;
     background-size: cover;
     padding: 0 8%;
-    position: relativE;
+    position: relative;
+    background-blend-mode: darken;
 }
 
 .title{
